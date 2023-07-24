@@ -32,9 +32,10 @@ After we explore the entire map, we use backtracking to find the path with the l
 ## Usage
 * Clone the repo to your local machine
 ```
-git clone insertlink
+git clone https://github.com/HemanthJoseph/Path-Planning-a-Turtlebot-using-A-Star-Algorithm-in-ROS.git
 ```
-* Copy my_package to your catkin_ws/src in ROS 1
+* Copy my_package folder to your catkin_ws/src in ROS 1 with your other ROS packages
+Use this link to create a *[ROS Catkin workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)*
 * Make the python file  (our node) as an executable
 ```
 cd catkin_ws/src/my_package/scripts
